@@ -5,7 +5,7 @@ public class prueba1 {
     String joana = "pichuna";
     boolean covidJoana = false;
 
-    public function sayHi() {
+    public void sayHi() {
         System.out.print("Hi");
     }
 
