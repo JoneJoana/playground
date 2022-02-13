@@ -4,4 +4,9 @@ public class prueba1 {
     boolean covidOscar = true;
     String joana = "pichuna";
     boolean covidJoana = false;
+
+    public function sayHi() {
+        System.out.print("Hi");
+    }
+
 }
