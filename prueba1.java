@@ -1,6 +1,7 @@
 public class prueba1 {
     int prueba = 4;
     String oscar = "pichun";
-    boolean covid = true;
+    boolean covidOscar = true;
     String joana = "pichuna";
+    boolean covidJoana = false;
 }
