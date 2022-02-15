@@ -8,5 +8,4 @@ public class prueba1 {
     public void sayHi() {
         System.out.print("Hi");
     }
-
 }
