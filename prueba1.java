@@ -1,11 +1,14 @@
-public class prueba1 {
+public abstract class prueba1 {
     int prueba = 4;
     String oscar = "pichun";
     boolean covidOscar = true;
     String joana = "pichuna";
     boolean covidJoana = false;
 
-    public void sayHi() {
+    String hola = sayHi();
+
+    public String sayHi() {
         System.out.print("Hi");
+        return null;
     }
 }
