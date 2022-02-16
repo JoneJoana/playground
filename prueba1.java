@@ -5,9 +5,7 @@ public class prueba1 {
     String joana = "pichuna";
     boolean covidJoana = false;
 
-    String hola = sayHi();
-    public String sayHi() {
+    public void sayHi() {
         System.out.print("Hi");
-        return null;
     }
 }
