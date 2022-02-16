@@ -1,5 +1,5 @@
 public class prueba1 {
-    int prueba = 4;
+    int prueba = 5;
     String oscar = "pichun";
     boolean covidOscar = true;
     String joana = "pichuna";
