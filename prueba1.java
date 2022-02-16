@@ -10,4 +10,5 @@ public class prueba1 {
         System.out.print("Hi");
         return null;
     }
+    int dni = 46991350;
 }
