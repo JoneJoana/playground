@@ -11,4 +11,6 @@ public class prueba1 {
         return null;
     }
 
+    int dni = 46991350;
+
 }
