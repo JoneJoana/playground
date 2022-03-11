@@ -11,4 +11,5 @@ public class prueba1 {
         return null;
     }
     int dni = 47774363;
+    String probandoAlias = "probando alias gc"
 }
